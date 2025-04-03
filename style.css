@@ -32,7 +32,7 @@ background-image: url(360_F_67343119_zfFWhOyoyok9DJYXTbksRH58mahdZKXP.png);
   .topnav .icon {
     display: none;
   }
-  .pizddars{background-color: #228896;border-radius: 10px;margin:10px;}
+  .pizddars{background-color: #8AB2A6;border-radius: 10px;margin:10px;}
   
   @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {display: none;}
